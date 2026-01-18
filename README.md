@@ -79,6 +79,7 @@ For each repository, the following fields were extracted:
 
 ## 📁 Project Structure
 
+```text
 github-api-repository-analysis/
 │
 ├── github_api_repo_analysis.py
@@ -96,3 +97,4 @@ github-api-repository-analysis/
 │
 └── README.md
     # Project documentation
+```
